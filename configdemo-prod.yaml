@@ -2,4 +2,4 @@ build:
   id: 101
   version: 1.2.3
   name: "Dev-Production-Build"
-  type: "Development Build"
+  type: "Development Build for all"
